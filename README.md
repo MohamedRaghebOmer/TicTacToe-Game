@@ -1,5 +1,9 @@
 # ❌ Tic-Tac-Toe (XO) Game - WinForms
 
+<img width="1389" height="878" alt="Screenshot 2026-02-20 080644" src="https://github.com/user-attachments/assets/d6f48740-7d8d-4691-9975-71f66dec1dc6" />
+
+
+
 A sleek and fully functional **Tic-Tac-Toe** game developed using C# and Windows Forms. This project showcases the ability to combine GUI elements with complex game logic to create an engaging user experience.
 
 ---
